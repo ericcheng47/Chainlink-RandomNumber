@@ -1,0 +1,6 @@
+/build
+/node_modules
+.env
+secret.kovan.json
+secret.mumbai.json
+/public
